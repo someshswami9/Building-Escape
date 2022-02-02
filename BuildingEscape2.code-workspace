@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "BuildingEscape2",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "D:\\Unreal\\UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\UnrealProjects\\BuildingEscape2\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\BuildingEscape2\\Definitions.BuildingEscape2.h",
+			"D:\\UnrealProjects\\BuildingEscape2\\Intermediate\\Build\\Win64\\BuildingEscape2Editor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
